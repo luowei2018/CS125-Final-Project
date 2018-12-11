@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Final Project</string>
+    <string name="name">Name:</string>
+    <string name="here_is_your_info">Here is your info:</string>
+    <string name="surname">Surname:</string>
+    <string name="gender">Gender:</string>
+    <string name="region">Region:</string>
+    <string name="generate">Generate</string>
+</resources>
